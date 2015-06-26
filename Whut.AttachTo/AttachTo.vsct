@@ -99,7 +99,7 @@
 
   <Symbols>
     <!-- This is the package guid. -->
-    <GuidSymbol name="guidAttachToPkg" value="{8d6080f0-7276-44d7-8dc4-6378fb6ce225}" />
+    <GuidSymbol name="guidAttachToPkg" value="{A7E222F8-5841-484D-9C8D-2A88619F0153}" />
     
     <!-- This is the guid used to group the menu commands together -->
     <GuidSymbol name="guidAttachToCmdSet" value="{16e2ac5c-ec3d-4ff1-a237-11ccef54fe0f}">
