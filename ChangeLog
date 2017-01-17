@@ -1,3 +1,9 @@
+AttachTo v1.0.3 - 2017-01-03
+- Added support for Visual Studio 2017
+
+AttachTo v1.0.2 - 2015-06-26
+- Added support for Visual Studio 2015
+
 AttachTo v1.0.1 - 2012-02-08
  - Fixed that show/hide menu commands where not applied immediately after Visual Studio restart
  - Added attaching also to nunit-console.exe process, and x86 counterparts of all NUnit processes
